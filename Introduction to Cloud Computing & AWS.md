@@ -1,4 +1,5 @@
 ### **What is Cloud Computing?**
+---
 Cloud computing is the **on-demand delivery of IT resources over the Internet** with a **pay-as-you-go** pricing model. Instead of investing in physical data centers and servers, businesses and individuals can access computing power, storage, and databases from cloud providers.
 
 ### **Key Benefits:**
@@ -16,7 +17,7 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 ---
 
  **On-Premises vs Cloud Computing**
-
+---
 ### **On-Premises (Traditional IT Infrastructure)**
 - **Visible Cost**: 9% spent on **Software Licenses**.
 - **Hidden Costs**:
