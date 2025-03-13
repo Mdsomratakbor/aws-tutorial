@@ -13,7 +13,8 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 4. **Data Storage** – Storing and managing data remotely.
 5. **Business Intelligence** – Using cloud for data analytics and insights.
 
-### **On-Premises vs Cloud Computing**
+
+ **On-Premises vs Cloud Computing**
 
 ### **On-Premises (Traditional IT Infrastructure)**
 - **Visible Cost**: 9% spent on **Software Licenses**.
