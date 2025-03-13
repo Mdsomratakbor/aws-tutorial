@@ -1,5 +1,6 @@
-## **2️⃣ AWS Global Infrastructure (Regions & Availability Zones)**
+## **1️⃣ AWS Global Infrastructure (Regions & Availability Zones)**
 AWS is designed to provide **high availability & low latency** using **Regions** and **Availability Zones (AZs)**.
+---
 
 ✅ **AWS Regions**  
    - A **geographical area** with multiple data centers.  
@@ -17,7 +18,7 @@ AWS is designed to provide **high availability & low latency** using **Regions**
 
 ---
 
-Now that you understand the **prerequisites**, let's dive into **AWS EC2 (Elastic Compute Cloud)** step by step.
+**AWS EC2 (Elastic Compute Cloud)** step by step.
 ---
 
 ## **1️⃣ Introduction to AWS EC2**  
