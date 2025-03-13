@@ -140,8 +140,6 @@ Allows developers to run code **without managing servers**. It automatically sca
 ---
 Cloud computing provides several advantages for businesses, developers, and individuals. Here are the key benefits:  
 
----
-
 ### **1️⃣ Cost Savings 💰**  
 - No upfront investment in hardware, servers, or data centers.  
 - Pay-as-you-go pricing reduces costs.  
