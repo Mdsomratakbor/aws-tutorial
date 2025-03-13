@@ -13,6 +13,7 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 4. **Data Storage** – Storing and managing data remotely.
 5. **Business Intelligence** – Using cloud for data analytics and insights.
 
+---
 
  **On-Premises vs Cloud Computing**
 
@@ -41,9 +42,9 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 - **On-Premises** requires more upfront investment and ongoing maintenance.
 - **Cloud Computing** shifts most of the responsibilities to the provider, reducing IT overhead and maintenance costs.
 - The iceberg analogy shows that **cloud reduces hidden costs**, making it a cost-effective solution in the long run.
-
+---
  **Cloud Computing Models**:
-
+---
 ### **1️⃣ Public Cloud**
 - Owned and operated by **third-party cloud providers** (e.g., AWS, Azure, Google Cloud).
 - Delivers computing resources **over the internet** (servers, storage, networking, etc.).
@@ -66,4 +67,72 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 - **Public Cloud** → Best for startups, web apps, and cost-effective solutions.
 - **Private Cloud** → Best for enterprises needing full control over security.
 - **Hybrid Cloud** → Best for businesses needing **both flexibility & security**.
+
+---
+
+Cloud computing services are typically categorized into **four major types**, often referred to as **"XaaS" (Anything as a Service)**. These are:
+
+---
+
+### **1️⃣ Infrastructure as a Service (IaaS)**
+Provides **virtualized computing resources** over the internet, including:
+- **Compute** (VMs, containers)
+- **Storage** (block, object, and file storage)
+- **Networking** (firewalls, load balancers, VPNs)
+
+💡 **Examples**:  
+- **AWS EC2** (Elastic Compute Cloud)  
+- **Google Compute Engine (GCE)**  
+- **Microsoft Azure Virtual Machines**  
+
+✅ **Best for**: IT administrators, enterprises managing large infrastructure, disaster recovery.
+
+---
+
+### **2️⃣ Platform as a Service (PaaS)**
+Provides a **development and deployment platform** where users can build, test, and deploy applications without managing underlying infrastructure.
+
+💡 **Examples**:  
+- **Google App Engine**  
+- **Microsoft Azure App Services**  
+- **AWS Elastic Beanstalk**  
+
+✅ **Best for**: Developers who want to **focus on coding** without managing infrastructure.
+
+---
+
+### **3️⃣ Software as a Service (SaaS)**
+Provides **fully managed software applications** accessible via the internet. Users don’t need to install, maintain, or update software.
+
+💡 **Examples**:  
+- **Google Workspace (Gmail, Drive, Docs, Sheets)**  
+- **Microsoft 365 (Word, Excel, Teams)**  
+- **Salesforce CRM**  
+- **Zoom, Dropbox, Slack**  
+
+✅ **Best for**: End-users who need **ready-to-use software** for productivity, collaboration, and CRM.
+
+---
+
+### **4️⃣ Function as a Service (FaaS) / Serverless Computing**
+Allows developers to run code **without managing servers**. It automatically scales based on demand.
+
+💡 **Examples**:  
+- **AWS Lambda**  
+- **Azure Functions**  
+- **Google Cloud Functions**  
+
+✅ **Best for**: Event-driven applications, microservices, and background processing.
+
+---
+
+### **💡 Summary Table**
+| **Service Model** | **Main Use** | **Managed by Cloud Provider** | **User Responsibility** |
+|------------------|-------------|-----------------------------|------------------------|
+| **IaaS**  | Infrastructure & VMs | Networking, storage, servers | OS, applications, security |
+| **PaaS**  | App development | Infrastructure, runtime, OS | Application code |
+| **SaaS**  | Ready-made apps | Everything | Just use the app |
+| **FaaS**  | Serverless functions | Everything | Just the function logic |
+
+---
 
