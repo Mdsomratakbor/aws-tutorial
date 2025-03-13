@@ -70,8 +70,7 @@ Cloud computing is the **on-demand delivery of IT resources over the Internet** 
 
 ---
 
-Cloud computing services are typically categorized into **four major types**, often referred to as **"XaaS" (Anything as a Service)**. These are:
-
+ **Cloud computing services are typically categorized into **four major types**, often referred to as **"XaaS" (Anything as a Service)**. These are: **
 ---
 
 ### **1️⃣ Infrastructure as a Service (IaaS)**
